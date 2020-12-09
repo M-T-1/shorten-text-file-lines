@@ -1,4 +1,6 @@
-This script re-formats text files by cutting the line length down (to approximately 110 characters by default).
+This script re-formats text files by cutting the line length down (to approximately 110 characters by default).  
+The script does not remove characters, it only inserts new lines at the next space after the character limit.  
+
 Requirements:
 Python 3
 All python libraries used are pre-packaged with python as part of the os library
