@@ -2,7 +2,7 @@ This script re-formats text files by cutting the line length down (to approximat
 The script does not remove characters, it only inserts new lines at the next space after the character limit.  
 
 Requirements:
-Python 3
+Python 3  
 All python libraries used are pre-packaged with python as part of the os library
 
 To use:
